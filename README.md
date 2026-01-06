@@ -13,3 +13,25 @@
 
 ---
 
+<h3 style="color: #5F8575;">Tecnologias Utilizadas:</h3>
+
+<h4>* Java</h4>
+<h4>* Spring Boot</h4>
+<h4>* Intellij</h4>
+<h4>* Postman</h4>
+
+---
+
+<h3 style="color: #5F8575;">Imagens do Projeto:</h3>
+
+![Imagem 1](img/imagem1)
+
+![Imagem 2](img/imagem2)
+
+![Imagem 3](img/imagem3)
+
+![Imagem 4](img/imagem4)
+
+
+---
+
