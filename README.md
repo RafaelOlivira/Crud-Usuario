@@ -24,12 +24,17 @@
 
 <h3 style="color: #5F8575;">Imagens do Projeto:</h3>
 
+<h2>Controller do usuário</h2>
 ![Imagem 1](img/imagem1.png)
 
+---
+
+<h2>Service do usuário</h2>
 ![Imagem 2](img/imagem2.png)
 
-![Imagem 3](img/imagem3.png)
+---
 
+<h2>Postman - Requisições</h2>
 ![Imagem 4](img/imagem4.png)
 
 
