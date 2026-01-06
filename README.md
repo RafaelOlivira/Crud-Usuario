@@ -24,13 +24,13 @@
 
 <h3 style="color: #5F8575;">Imagens do Projeto:</h3>
 
-![Imagem 1](img/imagem1)
+![Imagem 1](img/imagem1.png)
 
-![Imagem 2](img/imagem2)
+![Imagem 2](img/imagem2.png)
 
-![Imagem 3](img/imagem3)
+![Imagem 3](img/imagem3.png)
 
-![Imagem 4](img/imagem4)
+![Imagem 4](img/imagem4.png)
 
 
 ---
